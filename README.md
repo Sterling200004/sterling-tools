@@ -1,4 +1,4 @@
-# Sterling Tools - App del Clima en RD
+# Sterling Tools APP
 
 Aplicación con distintos funcionamientos
 
